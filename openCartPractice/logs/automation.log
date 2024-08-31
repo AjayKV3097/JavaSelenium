@@ -1,0 +1,5 @@
+21:11: 40.019 [main] INFO  testCases.AccountRegistrationTC001 {36} - ************Clicked Register*************
+21:45: 07.766 [main] INFO  testCases.AccountRegistrationTC001 {36} - ************Clicked Register*************
+21:45: 08.728 [main] INFO  testCases.AccountRegistrationTC001 {36} - ***********finished*********
+22:09: 33.100 [main] INFO  testCases.AccountRegistrationTC001 {36} - ************Clicked Register*************
+22:09: 34.125 [main] INFO  testCases.AccountRegistrationTC001 {36} - ***********finished*********
