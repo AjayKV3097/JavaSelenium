@@ -1,0 +1,45 @@
+package LoginPageTest;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.AfterTest;
+import org.testng.annotations.BeforeTest;
+import org.testng.annotations.Test;
+
+import LoginPageObjects.LoginPageObjects;
+import LoginPageObjects.LoginPageObjects2;
+
+public class LoginTest2 {
+	WebDriver driver;
+	
+	
+	@BeforeTest
+	private void launchBrowser() throws InterruptedException {
+		// TODO Auto-generated method stub
+		System.setProperty("webdriver.chrome.driver", "D:\\eclipseworkspace2.0\\Selenium\\webdriver\\chromedriver.exe");
+		driver = new ChromeDriver();
+		driver.get("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");
+		Thread.sleep(1000);
+
+	}
+	
+	@Test
+	private void loginApplication() throws InterruptedException {
+		// TODO Auto-generated method stub
+		LoginPageObjects2 l = new LoginPageObjects2(driver);
+		Thread.sleep(1000);
+		l.setUserName("Admin");
+		l.setpassword("admin123");
+		l.login();
+		l.verifyDashboard();
+
+	}
+	
+	@AfterTest
+	private void closeBrowser() {
+		// TODO Auto-generated method stub
+	
+		driver.close();
+	}
+}
+

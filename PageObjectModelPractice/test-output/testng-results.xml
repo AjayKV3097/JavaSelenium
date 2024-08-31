@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-22T07:00:44Z" name="Default suite" finished-at="2024-08-22T07:01:07Z" duration-ms="23311">
+    <groups>
+    </groups>
+    <test started-at="2024-08-22T07:00:44Z" name="Default test" finished-at="2024-08-22T07:01:07Z" duration-ms="23311">
+      <class name="LoginPageTest.LoginTestPractice2">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:LoginPageTest.LoginTestPractice2@1339e7aa]" started-at="2024-08-22T07:00:44Z" name="launchBrowser" finished-at="2024-08-22T07:00:48Z" duration-ms="3896" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="loginApplication()[pri:0, instance:LoginPageTest.LoginTestPractice2@1339e7aa]" started-at="2024-08-22T07:00:48Z" name="loginApplication" finished-at="2024-08-22T07:01:07Z" duration-ms="19260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApplication -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:LoginPageTest.LoginTestPractice2@1339e7aa]" started-at="2024-08-22T07:01:07Z" name="closeBrowser" finished-at="2024-08-22T07:01:07Z" duration-ms="132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- LoginPageTest.LoginTestPractice2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

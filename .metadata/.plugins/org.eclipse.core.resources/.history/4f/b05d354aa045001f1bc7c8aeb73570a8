@@ -1,0 +1,56 @@
+package org.sample.SampleProgram;
+
+public class practice {
+	private void reverseOfString() {
+		// TODO Auto-generated method stub
+		String s ="Ajay";
+		String s2="";
+		
+		StringBuilder s1 = new StringBuilder(s);
+		StringBuilder reverse = s1.reverse();
+		//System.out.println(reverse);
+		for (int i = 0; i <=s.length()-1; i++) {
+			char charAt = s.charAt(i);
+			s2=charAt+s2;			
+		}
+		System.out.println(s2);
+		
+	}
+	private void vowel() {
+		// TODO Auto-generated method stub
+		String s ="Ajay";
+		String upperCase = s.toUpperCase();
+		for (int i = 0; i < upperCase.length(); i++) {
+			char charAt = upperCase.charAt(i);
+			if(charAt == 'A'||charAt == 'E'||charAt == 'I'||charAt == 'O'||charAt == 'U') {
+				System.out.println(charAt+" is a vowel");
+			}
+			
+		}
+		
+
+	}
+	private void palindrome() {
+		// TODO Auto-generated method stub
+		String s ="Mdam";
+		String lowerCase = s.toLowerCase();
+		StringBuilder s1 = new StringBuilder(lowerCase);
+		StringBuilder reverse = s1.reverse();
+		if(lowerCase.contentEquals(String.valueOf(reverse))) {
+			System.out.println("String is palindrome");
+		}
+		else {
+			System.out.println("String is not palindrome");
+		}
+
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		practice p = new practice();
+		//p.reverseOfString();
+		//p.vowel();
+		p.palindrome();
+	}
+
+}

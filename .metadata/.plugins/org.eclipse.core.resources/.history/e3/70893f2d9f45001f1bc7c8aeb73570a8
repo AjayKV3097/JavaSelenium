@@ -1,0 +1,40 @@
+package org.sample.SampleProgram;
+
+public class practice {
+	private void reverseOfString() {
+		// TODO Auto-generated method stub
+		String s ="Ajay";
+		String s2="";
+		
+		StringBuilder s1 = new StringBuilder(s);
+		StringBuilder reverse = s1.reverse();
+		//System.out.println(reverse);
+		for (int i = 0; i <=s.length()-1; i++) {
+			char charAt = s.charAt(i);
+			s2=charAt+s2;			
+		}
+		System.out.println(s2);
+		
+	}
+	private void vowel() {
+		// TODO Auto-generated method stub
+		String s ="Ajay";
+		
+		for (int i = 0; i < s.length(); i++) {
+			char charAt = s.charAt(i);
+			if(charAt == 'A'||charAt == 'E'||charAt == 'I'||charAt == 'O'||charAt == 'U') {
+				System.out.println(charAt);
+			}
+			
+		}
+		
+
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		practice p = new practice();
+		p.reverseOfString();
+	}
+
+}

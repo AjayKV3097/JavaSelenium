@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-15T09:30:00Z" name="Default suite" finished-at="2024-08-15T09:30:09Z" duration-ms="9205">
+    <groups>
+    </groups>
+    <test started-at="2024-08-15T09:30:00Z" name="Default test" finished-at="2024-08-15T09:30:09Z" duration-ms="9205">
+      <class name="org.selenium.practice.RunnerFile">
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:org.selenium.practice.RunnerFile@5f354bcf]" started-at="2024-08-15T09:30:00Z" name="browserLaunch" finished-at="2024-08-15T09:30:03Z" duration-ms="3229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method signature="userLoggingIn()[pri:1, instance:org.selenium.practice.RunnerFile@5f354bcf]" started-at="2024-08-15T09:30:03Z" name="userLoggingIn" finished-at="2024-08-15T09:30:06Z" duration-ms="3022" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userLoggingIn -->
+        <test-method signature="userSearchingHotel()[pri:2, instance:org.selenium.practice.RunnerFile@5f354bcf]" started-at="2024-08-15T09:30:06Z" name="userSearchingHotel" finished-at="2024-08-15T09:30:07Z" duration-ms="1593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userSearchingHotel -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:org.selenium.practice.RunnerFile@5f354bcf]" started-at="2024-08-15T09:30:07Z" name="closeBrowser" finished-at="2024-08-15T09:30:09Z" duration-ms="1326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- org.selenium.practice.RunnerFile -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

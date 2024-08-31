@@ -1,0 +1,49 @@
+14:54: 30.267 [main] INFO  testCases.TC002_LoginTest {36} - ***************Starting TC002***************
+15:00: 09.992 [main] INFO  testCases.TC002_LoginTest {36} - ***************Starting TC002***************
+15:07: 45.397 [main] INFO  testCases.TC002_LoginTest {36} - ***************Starting TC002***************
+15:10: 49.456 [main] INFO  testCases.TC002_LoginTest {36} - ***************Starting TC002***************
+15:13: 18.899 [main] INFO  testCases.TC002_LoginTest {36} - ***************Starting TC002***************
+15:14: 30.920 [main] INFO  testCases.TC003_LoginDDT {36} - ***************Starting TC003***************
+15:14: 33.383 [main] INFO  testCases.TC003_LoginDDT {36} - ***************Ending TC003***************
+15:14: 33.450 [main] INFO  testCases.TC003_LoginDDT {36} - ***************Starting TC003***************
+15:14: 35.830 [main] INFO  testCases.TC003_LoginDDT {36} - ***************Starting TC003***************
+15:14: 38.417 [main] INFO  testCases.TC003_LoginDDT {36} - ***************Starting TC003***************
+15:15: 10.293 [main] INFO  testCases.TC003_LoginDDT {36} - ***************Ending TC003***************
+15:15: 10.295 [main] INFO  testCases.TC003_LoginDDT {36} - ***************Starting TC003***************
+15:15: 12.680 [main] INFO  testCases.TC003_LoginDDT {36} - ***************Ending TC003***************
+15:16: 59.411 [main] INFO  testCases.TC003_LoginDDT {36} - ***************Starting TC003***************
+15:17: 01.808 [main] INFO  testCases.TC003_LoginDDT {36} - ***************Ending TC003***************
+15:17: 01.814 [main] INFO  testCases.TC003_LoginDDT {36} - ***************Starting TC003***************
+15:17: 04.143 [main] INFO  testCases.TC003_LoginDDT {36} - ***************Ending TC003***************
+15:17: 04.149 [main] INFO  testCases.TC003_LoginDDT {36} - ***************Starting TC003***************
+15:17: 06.411 [main] INFO  testCases.TC003_LoginDDT {36} - ***************Ending TC003***************
+15:17: 06.415 [main] INFO  testCases.TC003_LoginDDT {36} - ***************Starting TC003***************
+15:17: 38.362 [main] INFO  testCases.TC003_LoginDDT {36} - ***************Ending TC003***************
+15:17: 38.365 [main] INFO  testCases.TC003_LoginDDT {36} - ***************Starting TC003***************
+15:17: 40.440 [main] INFO  testCases.TC003_LoginDDT {36} - ***************Ending TC003***************
+14:34: 15.127 [main] INFO  testCases.TC003_LoginDDT {36} - ***************Starting TC003***************
+14:34: 17.499 [main] INFO  testCases.TC003_LoginDDT {36} - ***************Ending TC003***************
+14:34: 17.529 [main] INFO  testCases.TC003_LoginDDT {36} - ***************Starting TC003***************
+14:34: 19.892 [main] INFO  testCases.TC003_LoginDDT {36} - ***************Ending TC003***************
+14:34: 19.899 [main] INFO  testCases.TC003_LoginDDT {36} - ***************Starting TC003***************
+14:34: 22.199 [main] INFO  testCases.TC003_LoginDDT {36} - ***************Ending TC003***************
+14:34: 22.203 [main] INFO  testCases.TC003_LoginDDT {36} - ***************Starting TC003***************
+14:34: 54.106 [main] INFO  testCases.TC003_LoginDDT {36} - ***************Ending TC003***************
+14:34: 54.106 [main] INFO  testCases.TC003_LoginDDT {36} - ***************Starting TC003***************
+14:34: 56.491 [main] INFO  testCases.TC003_LoginDDT {36} - ***************Ending TC003***************
+14:47: 42.608 [main] INFO  testCases.TC003_LoginDDT {36} - ***************Starting TC003***************
+14:47: 44.927 [main] INFO  testCases.TC003_LoginDDT {36} - ***************Ending TC003***************
+14:47: 44.934 [main] INFO  testCases.TC003_LoginDDT {36} - ***************Starting TC003***************
+14:47: 47.229 [main] INFO  testCases.TC003_LoginDDT {36} - ***************Ending TC003***************
+14:47: 47.234 [main] INFO  testCases.TC003_LoginDDT {36} - ***************Starting TC003***************
+14:47: 49.498 [main] INFO  testCases.TC003_LoginDDT {36} - ***************Ending TC003***************
+14:47: 49.506 [main] INFO  testCases.TC003_LoginDDT {36} - ***************Starting TC003***************
+14:48: 21.425 [main] INFO  testCases.TC003_LoginDDT {36} - ***************Ending TC003***************
+14:48: 21.432 [main] INFO  testCases.TC003_LoginDDT {36} - ***************Starting TC003***************
+14:48: 23.871 [main] INFO  testCases.TC003_LoginDDT {36} - ***************Ending TC003***************
+14:49: 33.196 [main] INFO  testCases.AccountRegistrationTest {36} - ***************Starting TC001***************
+14:49: 35.626 [main] INFO  testCases.AccountRegistrationTest {36} - Navigated to Registration Page
+14:49: 35.628 [main] INFO  testCases.AccountRegistrationTest {36} - Providing customer details
+14:49: 37.972 [main] INFO  testCases.AccountRegistrationTest {36} - Validating expected message..
+14:49: 38.034 [main] INFO  testCases.AccountRegistrationTest {36} - ***********finished*********
+15:32: 36.081 [main] INFO  testCases.TC003_LoginDDT {36} - ***************Starting TC003***************

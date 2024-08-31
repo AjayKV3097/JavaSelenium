@@ -1,0 +1,48 @@
+23:47: 19.849 [main] INFO  testCases.AccountRegistrationTest {36} - ***************Starting TC001***************
+23:47: 23.256 [main] INFO  testCases.AccountRegistrationTest {36} - Navigated to Registration Page
+23:47: 23.259 [main] INFO  testCases.AccountRegistrationTest {36} - Providing customer details
+23:47: 30.671 [main] INFO  testCases.AccountRegistrationTest {36} - Validating expected message..
+23:47: 31.825 [main] INFO  testCases.AccountRegistrationTest {36} - ***********finished*********
+00:29: 50.321 [main] INFO  testCases.AccountRegistrationTest {36} - ***************Starting TC001***************
+00:30: 08.586 [main] INFO  testCases.AccountRegistrationTest {36} - Navigated to Registration Page
+00:30: 08.598 [main] INFO  testCases.AccountRegistrationTest {36} - Providing customer details
+00:30: 26.627 [main] INFO  testCases.AccountRegistrationTest {36} - Validating expected message..
+00:30: 27.643 [main] INFO  testCases.AccountRegistrationTest {36} - ***********finished*********
+00:35: 10.760 [main] INFO  testCases.AccountRegistrationTest {36} - ***************Starting TC001***************
+00:35: 27.673 [main] INFO  testCases.AccountRegistrationTest {36} - Navigated to Registration Page
+00:35: 27.673 [main] INFO  testCases.AccountRegistrationTest {36} - Providing customer details
+00:35: 42.375 [main] INFO  testCases.AccountRegistrationTest {36} - Validating expected message..
+00:35: 43.153 [main] INFO  testCases.AccountRegistrationTest {36} - ***********finished*********
+00:35: 47.040 [main] INFO  testCases.AccountRegistrationTest {36} - ***************Starting TC001***************
+00:35: 56.412 [main] INFO  testCases.AccountRegistrationTest {36} - Navigated to Registration Page
+00:35: 56.415 [main] INFO  testCases.AccountRegistrationTest {36} - Providing customer details
+00:36: 05.512 [main] INFO  testCases.AccountRegistrationTest {36} - Validating expected message..
+00:36: 06.281 [main] INFO  testCases.AccountRegistrationTest {36} - ***********finished*********
+00:36: 15.993 [main] INFO  testCases.AccountRegistrationTest {36} - ***************Starting TC001***************
+00:36: 18.066 [main] INFO  testCases.AccountRegistrationTest {36} - Navigated to Registration Page
+00:36: 18.067 [main] INFO  testCases.AccountRegistrationTest {36} - Providing customer details
+00:36: 19.954 [main] INFO  testCases.AccountRegistrationTest {36} - Validating expected message..
+00:39: 14.231 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest {36} - ***************Starting TC001***************
+00:39: 14.372 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest {36} - ***************Starting TC001***************
+00:39: 25.721 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest {36} - Navigated to Registration Page
+00:39: 25.728 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest {36} - Providing customer details
+00:39: 35.633 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest {36} - Navigated to Registration Page
+00:39: 35.636 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest {36} - Providing customer details
+00:39: 49.904 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest {36} - Validating expected message..
+00:39: 50.699 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest {36} - ***********finished*********
+00:39: 51.096 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest {36} - Validating expected message..
+00:39: 52.345 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest {36} - ***********finished*********
+01:37: 20.604 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest {36} - ***************Starting TC001***************
+01:37: 20.616 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest {36} - ***************Starting TC001***************
+01:37: 38.273 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest {36} - Navigated to Registration Page
+01:37: 38.277 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest {36} - Providing customer details
+01:37: 38.867 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest {36} - Navigated to Registration Page
+01:37: 38.869 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest {36} - Providing customer details
+01:37: 40.087 [main] INFO  testCases.AccountRegistrationTest {36} - ***************Starting TC001***************
+01:37: 55.914 [main] INFO  testCases.AccountRegistrationTest {36} - Navigated to Registration Page
+01:37: 55.918 [main] INFO  testCases.AccountRegistrationTest {36} - Providing customer details
+01:37: 56.484 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest {36} - Validating expected message..
+01:37: 58.260 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest {36} - ***********finished*********
+01:38: 08.084 [main] ERROR testCases.AccountRegistrationTest {36} - Test failed
+14:57: 47.622 [main] INFO  testCases.TC002_LoginTest {36} - ***************Starting TC002***************
+14:59: 33.054 [main] INFO  testCases.TC002_LoginTest {36} - ***************Starting TC002***************

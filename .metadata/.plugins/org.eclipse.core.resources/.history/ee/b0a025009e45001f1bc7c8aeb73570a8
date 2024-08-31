@@ -1,0 +1,20 @@
+package org.sample.SampleProgram;
+
+public class practice {
+	private void reverseOfString() {
+		// TODO Auto-generated method stub
+		String s ="Ajay";
+		
+		StringBuilder s1 = new StringBuilder(s);
+		StringBuilder reverse = s1.reverse();
+		System.out.println(reverse);
+
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		practice p = new practice();
+		p.reverseOfString();
+	}
+
+}
