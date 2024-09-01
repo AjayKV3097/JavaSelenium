@@ -10,7 +10,7 @@
 	</section>
 	<section name="RefactoringWizard.Convert from JUnit">
 		<item key="width" value="730"/>
-		<item key="height" value="554"/>
+		<item key="height" value="561"/>
 	</section>
 	<section name="InferTypeArguments">
 		<item key="assumeCloneReturnsSameType" value="true"/>

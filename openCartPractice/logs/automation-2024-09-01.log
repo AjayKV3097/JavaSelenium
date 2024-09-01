@@ -1,0 +1,54 @@
+21:11: 40.019 [main] INFO  testCases.AccountRegistrationTC001 {36} - ************Clicked Register*************
+21:45: 07.766 [main] INFO  testCases.AccountRegistrationTC001 {36} - ************Clicked Register*************
+21:45: 08.728 [main] INFO  testCases.AccountRegistrationTC001 {36} - ***********finished*********
+22:09: 33.100 [main] INFO  testCases.AccountRegistrationTC001 {36} - ************Clicked Register*************
+22:09: 34.125 [main] INFO  testCases.AccountRegistrationTC001 {36} - ***********finished*********
+11:46: 16.377 [TestNG-tests-2] INFO  testCases.AccountRegistrationTC001 {36} - ************Clicked Register*************
+11:46: 18.043 [TestNG-tests-2] INFO  testCases.AccountRegistrationTC001 {36} - ***********finished*********
+11:47: 00.503 [TestNG-tests-2] INFO  testCases.AccountRegistrationTC001 {36} - ************Clicked Register*************
+11:47: 02.119 [TestNG-tests-2] INFO  testCases.AccountRegistrationTC001 {36} - ***********finished*********
+11:59: 29.473 [main] INFO  testCases.EndToEnd {36} - ************Clicked Register*************
+11:59: 31.057 [main] ERROR testCases.EndToEnd {36} - Test failed
+12:00: 23.261 [main] INFO  testCases.EndToEnd {36} - ************Clicked Register*************
+12:00: 24.897 [main] ERROR testCases.EndToEnd {36} - Test failed
+12:01: 30.930 [main] INFO  testCases.EndToEnd {36} - ************Clicked Register*************
+12:01: 32.591 [main] ERROR testCases.EndToEnd {36} - Test failed
+12:08: 59.154 [main] INFO  testCases.EndToEnd {36} - ************Clicked Register*************
+12:09: 03.329 [main] INFO  testCases.EndToEnd {36} - ***********finished*********
+12:56: 10.506 [main] INFO  testCases.LoginApplicationDDT {36} - ***************Starting TC003***************
+12:56: 12.970 [main] INFO  testCases.LoginApplicationDDT {36} - ***************Ending TC003***************
+12:56: 12.974 [main] INFO  testCases.LoginApplicationDDT {36} - ***************Starting TC003***************
+12:56: 15.195 [main] INFO  testCases.LoginApplicationDDT {36} - ***************Ending TC003***************
+12:56: 15.199 [main] INFO  testCases.LoginApplicationDDT {36} - ***************Starting TC003***************
+12:56: 17.469 [main] INFO  testCases.LoginApplicationDDT {36} - ***************Ending TC003***************
+12:56: 17.475 [main] INFO  testCases.LoginApplicationDDT {36} - ***************Starting TC003***************
+12:56: 19.386 [main] INFO  testCases.LoginApplicationDDT {36} - ***************Ending TC003***************
+12:56: 19.386 [main] INFO  testCases.LoginApplicationDDT {36} - ***************Starting TC003***************
+12:56: 21.581 [main] INFO  testCases.LoginApplicationDDT {36} - ***************Ending TC003***************
+13:40: 35.796 [main] INFO  testCases.EndToEnd {36} - ************Clicked Register*************
+13:40: 40.169 [main] ERROR testCases.EndToEnd {36} - Test failed
+13:41: 47.494 [main] INFO  testCases.EndToEnd {36} - ************Clicked Register*************
+13:41: 51.853 [main] ERROR testCases.EndToEnd {36} - Test failed
+13:43: 04.847 [main] INFO  testCases.EndToEnd {36} - ************Clicked Register*************
+13:43: 08.689 [main] ERROR testCases.EndToEnd {36} - Test failed
+13:47: 19.628 [main] INFO  testCases.EndToEnd {36} - ************Clicked Register*************
+13:47: 25.757 [main] ERROR testCases.EndToEnd {36} - Test failed
+13:48: 28.559 [main] INFO  testCases.EndToEnd {36} - ************Clicked Register*************
+13:48: 53.409 [main] ERROR testCases.EndToEnd {36} - Test failed
+13:50: 22.998 [main] INFO  testCases.EndToEnd {36} - ************Clicked Register*************
+13:50: 47.523 [main] ERROR testCases.EndToEnd {36} - Test failed
+13:51: 03.839 [main] INFO  testCases.EndToEnd {36} - ************Clicked Register*************
+13:51: 28.314 [main] ERROR testCases.EndToEnd {36} - Test failed
+13:52: 19.304 [main] INFO  testCases.EndToEnd {36} - ************Clicked Register*************
+13:52: 24.603 [main] ERROR testCases.EndToEnd {36} - Test failed
+13:56: 30.718 [main] INFO  testCases.EndToEnd {36} - ************Clicked Register*************
+13:56: 56.351 [main] ERROR testCases.EndToEnd {36} - Test failed
+13:58: 39.714 [main] INFO  testCases.EndToEnd {36} - ************Clicked Register*************
+13:59: 05.322 [main] INFO  testCases.EndToEnd {36} - ***********finished*********
+13:59: 28.946 [main] INFO  testCases.EndToEnd {36} - ************Clicked Register*************
+13:59: 55.120 [main] INFO  testCases.EndToEnd {36} - ***********finished*********
+14:00: 27.954 [main] INFO  testCases.EndToEnd {36} - ************Clicked Register*************
+14:00: 53.546 [main] ERROR testCases.EndToEnd {36} - Test failed
+14:01: 34.917 [main] INFO  testCases.EndToEnd {36} - ************Clicked Register*************
+14:02: 21.280 [main] INFO  testCases.EndToEnd {36} - ***********finished*********
+14:03: 16.060 [main] INFO  testCases.EndToEnd {36} - ************Clicked Register*************

@@ -47,6 +47,7 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="openCartPractice"/>
 			<item value="opencart"/>
 			<item value="TestNgPractice"/>
 			<item value="ExcelReading"/>
@@ -57,6 +58,7 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="openCartPractice"/>
 			<item value="opencart"/>
 			<item value="TestNgPractice"/>
 			<item value="ExcelReading"/>

@@ -31,6 +31,10 @@ public class RegistrationPage extends BasePage {
 	WebElement btnContinue;
 	@FindBy(xpath = "//h1[normalize-space()='Your Account Has Been Created!']")
 	WebElement msgConfirmation;
+	@FindBy(xpath="//a[@class='list-group-item'][normalize-space()='Logout']")
+	WebElement logout;
+	@FindBy(xpath = "//a[@class='btn btn-primary']")
+	WebElement btnContinue2;
 
 	public void setFirstName(String firstName) {
 		// TODO Auto-generated method stub
@@ -77,6 +81,16 @@ public class RegistrationPage extends BasePage {
 	public void clickContinue() {
 		// TODO Auto-generated method stub
 		btnContinue.click();
+
+	}
+	public void clickContinue2() {
+		// TODO Auto-generated method stub
+		btnContinue2.click();
+
+	}
+	public void clickLogout() {
+		// TODO Auto-generated method stub
+		logout.click();
 
 	}
 

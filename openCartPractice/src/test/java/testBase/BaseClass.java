@@ -12,9 +12,11 @@ import org.apache.logging.log4j.Logger;
 import org.codehaus.plexus.logging.LoggerManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Parameters;
 
 public class BaseClass {
 	
@@ -22,10 +24,23 @@ public class BaseClass {
 	public Properties prop;
 	public Logger log ;
 	
+	@Parameters({"os","browser"})
 	@BeforeClass
-	public void launchBrowser() throws IOException {
+	public void launchBrowser(String os,String br) throws IOException {
 		// TODO Auto-generated method stub
-		driver= new ChromeDriver();
+		switch (br.toLowerCase()) {
+		case "chrome": driver= new ChromeDriver();
+			
+			break;
+		case "edge": driver= new EdgeDriver();
+		
+		break;
+		
+
+		default: System.out.println("No browser available");
+			return;
+		}
+		
 		WebDriverWait wait = new WebDriverWait( driver, Duration.ofSeconds(10));
 		prop = new Properties();
 		FileReader file = new FileReader("D:\\eclipseworkspace2.0\\openCartPractice\\src\\test\\resources\\config.properties");
